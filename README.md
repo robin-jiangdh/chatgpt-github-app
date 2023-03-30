@@ -1,4 +1,5 @@
 # A ChatGPT bot to respond to your GitHub Issues
+update
 
 [Deploy this function on flows.network](#deploy-chatgpt-github-app-on-your-github-repo), and you will get a GitHub bot that uses ChatGPT to respond to every comment in your GitHub issues automatically. It enables developers to use GitHub Issues as the conversational UI for ChatGPT!
 
