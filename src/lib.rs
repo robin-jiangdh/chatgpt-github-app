@@ -18,7 +18,7 @@ pub async fn run() {
     };
 
     let owner: String = match env::var("owner") {
-        Err(_) => "second-state".to_string(),
+        Err(_) => "robinkits".to_string(),
         Ok(name) => name,
     };
 
